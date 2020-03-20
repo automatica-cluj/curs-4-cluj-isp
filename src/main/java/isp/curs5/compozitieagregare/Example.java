@@ -1,4 +1,4 @@
-package lab.template;
+package isp.curs5.compozitieagregare;
 
 
 import java.util.logging.Logger;

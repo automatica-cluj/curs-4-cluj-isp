@@ -1,4 +1,4 @@
-package lab.template;
+package isp.curs5.compozitieagregare;
 
 import org.junit.Test;
 
